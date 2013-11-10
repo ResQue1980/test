@@ -10,3 +10,4 @@ testing rebate
 local rebase infor added to test.txt
 this information was added first
 this information was added second
+1st info
